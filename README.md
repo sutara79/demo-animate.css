@@ -7,7 +7,7 @@
 
 ```html
 <head>
-  <link rel="stylesheet" href="http://s.mlcdn.co/animate.css">
+  <link rel="stylesheet" href="https://s.mlcdn.co/animate.css">
 </head>
 <body>
   <div class="animated fadeInUp">フェードインしながら下方からせり上がる</div>
